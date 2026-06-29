@@ -1,0 +1,303 @@
+canonical_identifier: bkk:krp/KR3ei066/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei066/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 產論翼
+  identifiers:
+    krp: KR3ei066
+  tags:
+    kr-categories: KR3ei
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei066.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei066_000-jc.yaml, hash: 'sha256:00ce91a9da40bd747da029878861e20e3c785e304b3819d41ff12be2bd24a2ca'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei066_000-jc.markers.yaml, hash: 'sha256:9c731f7a33df79487e095f2a279327f906d38b0436ce3d7078f338b1b993da36'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 781
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 413
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d4.h1s1
+    span:
+    - body
+    - 413
+    - 1180
+  label: 按腹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d5.h1s1
+    span:
+    - body
+    - 1180
+    - 1490
+  label: 辨胎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d6.h1s1
+    span:
+    - body
+    - 1490
+    - 1792
+  label: 整胎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d7.h1s1
+    span:
+    - body
+    - 1792
+    - 2215
+  label: 救癇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d8.h1s1
+    span:
+    - body
+    - 2215
+    - 2630
+  label: 探宮
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d9.h1s1
+    span:
+    - body
+    - 2630
+    - 3074
+  label: 導水
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d10.h1s1
+    span:
+    - body
+    - 3074
+    - 3940
+  label: 坐草
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d11.h1s1
+    span:
+    - body
+    - 3940
+    - 4161
+  label: 斷臍
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d12.h1s1
+    span:
+    - body
+    - 4161
+    - 4449
+  label: 禁暈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d13.h1s1
+    span:
+    - body
+    - 4449
+    - 4837
+  label: 抒倒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d14.h1s1
+    span:
+    - body
+    - 4837
+    - 5071
+  label: 整橫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d15.h1s1
+    span:
+    - body
+    - 5071
+    - 5380
+  label: 拔坐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d16.h1s1
+    span:
+    - body
+    - 5380
+    - 5786
+  label: 舉孿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d17.h1s1
+    span:
+    - body
+    - 5786
+    - 5904
+  label: 易蓐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d18.h1s1
+    span:
+    - body
+    - 5904
+    - 6422
+  label: 遏崩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d19.h1s1
+    span:
+    - body
+    - 6422
+    - 6990
+  label: 泄閉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d20.h1s1
+    span:
+    - body
+    - 6990
+    - 7285
+  label: 納腸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d21.h1s1
+    span:
+    - body
+    - 7285
+    - 7554
+  label: 斂宮
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d22.h1s1
+    span:
+    - body
+    - 7554
+    - 7644
+  label: 復肛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d23.h1s1
+    span:
+    - body
+    - 7644
+    - 7805
+  label: 救痙
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d24.h1s1
+    span:
+    - body
+    - 7805
+    - 12834
+  label: 通計二十術
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d24d2
+    span:
+    - body
+    - 7810
+    - 8408
+  label: 死胎候法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d24d3
+    span:
+    - body
+    - 8408
+    - 8804
+  label: 嬰兒保護
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d24d4
+    span:
+    - body
+    - 8804
+    - 9106
+  label: 試乳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d24d5
+    span:
+    - body
+    - 9106
+    - 9301
+  label: 浴法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei066_jc_000-d24d6
+    span:
+    - body
+    - 9301
+    - 12834
+  label: 懷孕圖
+  type: section
+  level: 2
+hash: sha256:d6e4ca4a5aa2305e047e8a2350e63af983617cff3a20b381e87ba296a1b0385c
