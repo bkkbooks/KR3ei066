@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei066_000.yaml, hash: 'sha256:3807367b3ca030aea95d6dcd831d0ad6910ea2a0672fa15e7dd86129ca186e80'}
+  - {seq: 0, filename: KR3ei066_000.yaml, hash: 'sha256:00ce91a9da40bd747da029878861e20e3c785e304b3819d41ff12be2bd24a2ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei066_000.markers.yaml, hash: 'sha256:8d95c9ecab18d5decd0c6ffcca7916b9253521a207f100352b58d9dc61bd853a'}
+  - {seq: 0, role: markers, filename: assets/KR3ei066_000.markers.yaml, hash: 'sha256:66a58256ab8ad4034ffb04a760c63f0396c0fc7cf860eaf3f8c074fca62fadad'}
 table_of_contents:
 - ref:
     seq: 0
@@ -300,7 +300,4 @@ table_of_contents:
   label: 懷孕圖
   type: section
   level: 2
-hash: sha256:3e2a27a95a9e627e4e4a76b23196bc7c7e35749f5252b444d07a341c44ac42fc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:08d05e3630bae4b0af46ad0673e25d95990d78cf10d4cdf604d393261792248b
