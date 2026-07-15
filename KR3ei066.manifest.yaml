@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei066/v1
 canonical_location: https://kanripo.org/bkk/KR3ei066/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 產論翼
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei066_000.yaml, hash: 'sha256:00ce91a9da40bd747da029878861e20e3c785e304b3819d41ff12be2bd24a2ca'}
+  - {seq: 0, filename: KR3ei066_000.yaml, hash: 'sha256:5e35036c648506f684707d3d64600d3680ceba3cb4cffc0b527d63b2f0823b40'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei066_000.markers.yaml, hash: 'sha256:66a58256ab8ad4034ffb04a760c63f0396c0fc7cf860eaf3f8c074fca62fadad'}
+  - {seq: 0, role: markers, filename: assets/KR3ei066_000.markers.yaml, hash: 'sha256:367b4d964aa8be1bb777b0edcf0def9a835cd9bd01672562eb80cf13b19e7b2e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -300,4 +300,7 @@ table_of_contents:
   label: 懷孕圖
   type: section
   level: 2
-hash: sha256:08d05e3630bae4b0af46ad0673e25d95990d78cf10d4cdf604d393261792248b
+hash: sha256:5534992c963d449bff077e7307d1d71868a7e334398739dbe2747f110d54c180
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
